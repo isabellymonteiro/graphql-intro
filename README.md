@@ -1,4 +1,8 @@
 # GraphQL Intro
+Based on [this tutorial](https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj)
+
+## Try it
+
 To play with it, clone the repo and run:
 
 - `npm install`
